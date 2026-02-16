@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  font-family: "Roboto Condensed", sans-serif
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.picture{
+    padding:10px;
+    text-align: center;
+}
+.p1,.p2,.p3,.p4{
+    display: inline-block;
+    text-align: center;
+    border: solid black 1px;
+    padding: 5px;
+
+}
+.new{
+    text-align: center;
+}
+
+.button{
+    width: 200px;
+}
+.order{
+    margin-top: 10px;
+    background-color: black;
+    padding:2px;
+    color: white;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.f1{
+
+display: inline-block;
+
+}
+.send{
+    width: 200px;
+    background-color: greenyellow;
+    color: black;
+}
