@@ -34,7 +34,7 @@ body{
 .order{
     margin-top: 10px;
     background-color: black;
-    padding:2px;
+    padding:10px;
     color: white;
 }
 .footer{
@@ -45,12 +45,14 @@ body{
 
 }
 .f1{
-
+text-align: left;
+width: 200px;
 display: inline-block;
 
 }
 .send{
     width: 200px;
-    background-color: greenyellow;
+    background-color: #FFFF04;
     color: black;
+    padding: 5px;
 }
